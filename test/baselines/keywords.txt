@@ -78,7 +78,7 @@ Keyword
 Whitespace
 Keyword
 Whitespace
-Keyword
+KeywordControl
 Whitespace
 Keyword
 Whitespace

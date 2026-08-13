@@ -1,6 +1,6 @@
 Type
 Whitespace
-Type
+KeywordVoid
 Whitespace
 Type
 Whitespace
