@@ -1,0 +1,14 @@
+{
+  "id": "builtin.language-basics-zig",
+  "name": "Language Basics Zig",
+  "description": "Provides syntax highlighting and bracket matching in Zig files.",
+  "languages": [
+    {
+      "id": "zig",
+      "extensions": [".zig"],
+      "tokenize": "src/tokenizeZig.js",
+      "configuration": "languageConfiguration.json"
+    }
+  ],
+  "repository": "https://github.com/lvce-editor/language-basics-zig"
+}
