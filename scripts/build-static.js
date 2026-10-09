@@ -7,4 +7,5 @@ const root = path.join(__dirname, '..')
 
 await exportStatic({
   root,
+  extensionPath: root,
 })
